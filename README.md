@@ -4,9 +4,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarLordCraft&bg_color=000000&color=00ff80&line=00ff80&point=403d3d&area=true&hide_border=true)](https://github.com/StarLordCraft/)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=StarLordCraft&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p>-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StarLordCraft&show_icons=true&count_private=true&hide_border=true&title_color=00ff80&icon_color=fffa86&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Alves github stats" /> 
